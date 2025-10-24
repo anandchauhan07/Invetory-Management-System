@@ -1,0 +1,19 @@
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\bin\Debug\Inventory Management system.exe.config
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\bin\Debug\Inventory Management system.exe
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\bin\Debug\Inventory Management system.pdb
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory Management system.csproj.AssemblyReference.cache
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.Form1.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.Properties.Resources.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory Management system.csproj.GenerateResource.cache
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory Management system.csproj.CoreCompileInputs.cache
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory Management system.exe
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory Management system.pdb
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory Management system.exe.config
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.ManageUsers.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.ManageCustomers.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.ManageCategories.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.ManageProducts.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.ManageOrders.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.ViewOrders.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.Home.resources
+C:\Users\asd\source\repos\Inventory Management system\Inventory Management system\obj\Debug\Inventory_Management_system.SplashForm.resources
